@@ -1,6 +1,9 @@
 # Edit this file to customize your deployment steps with custom command options
 # or additional commands.
 #
+softcover build:html
+softcover build:epub
+softcover build:mobi --calibre
 # softcover build:all
 # softcover build:preview
 # softcover publish

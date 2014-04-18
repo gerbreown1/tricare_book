@@ -7,5 +7,6 @@ mainmatter:
 what-is.md
 eligibility.md
 sign-up.md
+links.md
 #another_chapter.md
 #yet_another_chapter.md
