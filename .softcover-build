@@ -2,6 +2,6 @@
 #options or additional commands.
 #
 softcover build:html
-#softcover build:pdf
+softcover build:pdf
 softcover build:mobi --calibre
-softcover build:preview
+#softcover build:preview

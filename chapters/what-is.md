@@ -1,6 +1,18 @@
 # What is TriCare?
 
-Tricare is a medical insurance program for US Active duty military personnel and their
-families, US Activated National Guard/Reservists and their families and 
-retired US military and their families.
+TRICARE is the health care program for US service members (active, 
+activated Guard/Reserve and retired) and their families around the 
+world.:[^about]
 
+## New to TRICARE
+
+     1. TRICARE offers comprehensive, affordable health coverage with 
+     several health plan options, a robust pharmacy benefit, dental 
+     options and other special programs. To learn more:
+        a) Watch Video: What is TRICARE 
+        b) Take the TRICARE Fundamentals Public Course
+      2. Your Benefits
+		a) Comprehensive coverage for all beneficiaries. >>See What's 
+		Covered
+		
+[^about]: www.tricare.mil/welcome/about.aspx
