@@ -1,10 +1,10 @@
 cover
 frontmatter:
 maketitle
-about-author.md
 tableofcontents
 preface.md
 mainmatter:
+about-author.md
 what-is.md
 eligibility.md
 sign-up.md
