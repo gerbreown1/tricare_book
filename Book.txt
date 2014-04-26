@@ -4,8 +4,12 @@ maketitle
 tableofcontents
 preface.md
 mainmatter:
-about-author.md
-what-is.md
+about_author.md
+what_is.md
 eligibility.md
-sign-up.md
+standard_overseas.md
+medical_claims.md
+new_spouses.md
+find_provider_philippines.md
+additional_info.md
 #links.md
