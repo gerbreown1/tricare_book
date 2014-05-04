@@ -1,7 +1,7 @@
-# Edit this file to customize your build steps with custom command 
+# Edit this file to customize your build steps with custom command
 #options or additional commands.
 #
-softcover build:html
-softcover build:pdf
-softcover build:mobi --calibre
+softcover build:html --silent
+softcover build:pdf --silent
+softcover build:mobi --calibre --silent
 #softcover build:preview
