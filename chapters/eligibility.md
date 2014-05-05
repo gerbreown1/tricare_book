@@ -67,7 +67,7 @@ TRICARE For Life.
 1. Enrollment not required, but you must pay Medicare Part B premiums.
 
 ## Getting care
-1. You may visit any authorized[^authorized]: provider.  In the Philippines there is a 
+1. You may visit any authorized[^authorized] provider.  In the Philippines there is a 
 list of [preferred providers](http://tricare-overseas.com/ProviderSearch/Beneficiary_PhilippineDemonstration_ProvSearch.aspx) 
 that you need to check as Tricare will only reimburse the charges if the 
 provider is on the list.
@@ -113,4 +113,4 @@ visit www.medicare.gov or call Social Security at 1-800-772-1213
    1. Note: If you get care overseas (excluding U.S. Territories),
       you'll have the same costs as TRICARE Standard Overseas.
 
-[^authorized]This is the key word, that the provider is **authorized**!
+[^authorized]:This is the key word, that the provider is **authorized**!
