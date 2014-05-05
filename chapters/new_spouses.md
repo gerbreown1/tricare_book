@@ -54,7 +54,8 @@ Your health care costs are based on your sponsor's status
         the birth certificate or certificate of live birth signed by 
         the attending physician or other hospital representative.
         
-        If born overseas—a consular report of birth (FS-240)
+        If born overseas—a consular report of birth (FS-240).
+        
         If adopted—a record of adoption or a letter of placement of 
         the child into the home by a recognized placement/adoption 
         agency or the court before the final adoption.
