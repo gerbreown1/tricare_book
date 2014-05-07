@@ -10,6 +10,7 @@ eligibility.md
 standard_overseas.md
 medical_claims.md
 new_spouses.md
+dental.md
 find_provider_philippines.md
 mobile_apps.md
 additional_info.md

@@ -8,10 +8,7 @@ prices:
         Optimized for Kindle and iPad
 
     media:
-      - html
-      - pdf
-      - epub
-      - mobi
+      - ebooks
     price: 0
 
   -

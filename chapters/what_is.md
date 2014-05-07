@@ -1,6 +1,6 @@
-# [What](www.tricare.mil/welcome/about.aspx) is TriCare?
+# What is Tricare?
 
-TRICARE is the health care program for US service members (active,
+[TRICARE](www.tricare.mil/welcome/about.aspx) is the health care program for US service members (active,
 activated Guard/Reserve and retired from either of those 2 categories)
 and their families around the world.
 
@@ -14,7 +14,7 @@ other special programs. To learn more:
 
 1. Take the TRICARE Fundamentals Public [Course](http://tricare.mil/tricareu/PublicCourses.aspx)
 
-### Your Benefits
+## Your Benefits
 
 1. Comprehensive [coverage](http://tricare.mil/CoveredServices/SeeWhatsCovered.aspx) for all beneficiaries.
 1. Robust [pharmacy program](http://tricare.mil/Pharmacy.aspx).
@@ -23,21 +23,34 @@ other special programs. To learn more:
 1. Health Plan Options
     11 health plan options. [View TRICARE Plans](http://tricare.mil/Welcome/Plans.aspx)
 
-1. Out-of-Pocket Costs.
+## Out-of-Pocket Costs.
 
-   a) [Health Plan Costs](http://tricare.mil/Costs/HealthPlanCosts.aspx).
+### [Health Plan Costs](http://tricare.mil/Costs/HealthPlanCosts.aspx).
 
-   b) [Prescription Costs](http://tricare.mil/Costs/PrescriptionCosts.aspx).
+### [Prescription Costs](http://tricare.mil/Costs/PrescriptionCosts.aspx).
 
-   c) [Dental Costs](http://tricare.mil/Costs/DentalCosts.aspx).
+### [Dental Costs](http://tricare.mil/Costs/DentalCosts.aspx).
 
-1. Getting Started is Easy.
+## Getting Started is Easy.
 
-   a) Confirm your eligibility on-line or call 1-800-538-9552.
+### Confirm your eligibility on-line or call 1-800-538-9552.
 
-   b) Explore your health plan options.
+### Explore your health plan options.
 
-   c) Decide which is right for you and [enroll](http://tricare.mil/Welcome/Enroll.aspx) (if required).
+### Decide which is right for you and [enroll](http://tricare.mil/Welcome/Enroll.aspx) (if required).
+
+## Related Topics
+
+### [Eligibility](http://tricare.mil/Welcome/Eligibility.aspx)
+
+## Related Downloads
+
+### Tricare Choices: [At a Glance Brochure](http://tricare.mil/~/media/Files/TRICARE/Publications/BrochuresFlyers/Choices_Glance_BR.pdf)
+
+### Tricare Overseas Program: [At a Glance Brochure](http://tricare.mil/~/media/Files/TRICARE/Publications/BrochuresFlyers/O_AtGlance_BR.pdf)
+
+### Tricare Resources for [Service Overview](http://tricare.mil/~/media/Files/TRICARE/Publications/FactSheets/Resources_FS.pdf)
+
 
 
 [^dental_options]: Optional at extra cost.

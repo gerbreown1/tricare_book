@@ -101,4 +101,9 @@ Your health care costs are based on your sponsor's status
     At age 23 (or after ending college) he or she may qualify to purchase 
     [TRICARE Young Adult](http://tricare.mil/Welcome/Plans/TYA.aspx).
 
+## Related Downloads
+
+[Tricare Choices for College Students Fact Sheet](http://tricare.mil/~/media/Files/TRICARE/Publications/FactSheets/College_FS.pdf).
+
+[Tricare Young Adult Fact Sheet](http://tricare.mil/~/media/Files/TRICARE/Publications/FactSheets/TYA_FS.pdf).
 
