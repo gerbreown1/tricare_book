@@ -5,7 +5,8 @@ prices:
     name: "HTML & Ebook"
     description:
       |
-        Optimized for Kindle and iPad
+        A book about Tricare health system for active duty, activated 
+        Guard/Reserve and retired US military persons and their families.
 
     media:
       - ebooks
@@ -18,5 +19,12 @@ authors:
     name: "Gerald S. Brown"
     image: /images/testimonial_1.png
     contact_email: "tc-info@gerbreown.com"
+    bio: 
+      | 
+        I am retired from the US Naval Reserve after serving 4 years on 
+        active duty in the Navy, then 10 years in the Michigan National 
+        Guard and the final 6 years in the Navy Reserve.  
+        
+        I have been with Tricare for about 4 years.
 
 hide_custom_domain_footer: false
