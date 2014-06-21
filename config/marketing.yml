@@ -16,9 +16,8 @@ prices:
 
 authors:
   -
-    name: "Gerald S. Brown"
+    name: "Gerald S. Brown DP1, USNR-R"
     image: /images/testimonial_1.png
-    contact_email: "tc-info@gerbreown.com"
     bio: 
       | 
         I am retired from the US Naval Reserve after serving 4 years on 
@@ -26,5 +25,9 @@ authors:
         Guard and the final 6 years in the Navy Reserve.  
         
         I have been with Tricare for about 4 years.
+        
+marketing_content: 'This is a **free** book for retired US military personnel and their families.'
+
+contact_email: 'tc-info@gerbreown.com'
 
 hide_custom_domain_footer: false

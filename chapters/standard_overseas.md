@@ -38,7 +38,9 @@
 
 ## Overseas Contractor
 
-### International SOS is the TRICARE Overseas Program contractor and will provide the assistance you need for claims, finding a provider, authorization and much more. Register [online](https://secure.tricare-overseas.com/apps-portal/tricareapps-app/static/beneficiaries/register.htm) for access to secure functions, including:
+### International SOS is the TRICARE Overseas Program contractor and will provide the assistance you need for claims, finding a provider, authorization and much more. 
+Register [online](https://secure.tricare-overseas.com/apps-portal/tricareapps-app/static/beneficiaries/register.htm) for access to secure functions, including:
+
 1. Eligibility query
 1. Other health insurance status/update
 1. Claim status

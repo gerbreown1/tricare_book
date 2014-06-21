@@ -1,6 +1,6 @@
 # What is Tricare?
 
-[TRICARE](www.tricare.mil/welcome/about.aspx) is the health care program for US service members (active,
+[TRICARE](http://www.tricare.mil/welcome/about.aspx) is the health care program for US service members (active,
 activated Guard/Reserve and retired from either of those 2 categories)
 and their families around the world.
 

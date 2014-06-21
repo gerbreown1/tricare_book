@@ -2,7 +2,7 @@
 
 This book is being presented to provide you information about the
 TRICARE FOR LIFE and the TRICARE STANDARD OVERSEAS plans, which are
-just 2 of the many plans that are offered by [TRICARE](www.tricare.mil).
+just 2 of the many plans that are offered by [TRICARE](http://www.tricare.mil).
 These plans are available to US military personnel on active duty,
 activated Guard or Reserve or retired from those categories and their
 families.

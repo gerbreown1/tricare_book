@@ -33,16 +33,13 @@ registered mail with return receipt, even though the receipt takes a
 long time to return or it never returns.
 2. By fax @ + 1 608-301-2251.
 3. By Tricare's on-line web site.  This allows you to send up to 3
-files of 5 mb or less at a time. There was a time that I submitted 3 files
-that were each less than 5mb but the total was more than 5mb and then
-I received a message that there were no attachments so I resent them as
-individual messages.
+files of 5 mb or less at a time. There was a time that I submitted 3 files that were each less than 5mb but the total was more than 5mb and then I received a message that there were no attachments so I had to resend them as individual messages.
 
 My scanner software has an option to create multi-page files in
-   either PDF or TIFF formats. Tricare's security software turned the
-   TIFF file all BLACK so they were no longer readable, but the PDF file
-   went through OK. Using this multi-page feature allows me to send more
-   than 3 documents at a time as long as the total file size is less than 5mb.
+either PDF or TIFF formats. Tricare's security software turned the
+TIFF file all BLACK so they were no longer readable, but the PDF file
+went through OK. Using this multi-page feature allows me to send more
+than 3 documents at a time as long as the total file size is less than 5mb.
 
 Tricare seems to be very picky on all claims that are submitted so
 make sure that all “i”s are dotted and all “t”s are crossed and all
@@ -51,6 +48,18 @@ required boxes on the DD Form 2642 be filled out properly.
 Pharmacy receipts should be photocopied soon after they are received
 as generally they are printed on thermal paper which fade after a
 short time and are no longer readable.  The copies can then be sent to Tricare.
+
+On the Explanation of Benefits (EOB) that comes back when you receive the payments there is a statement that says "If you have not received a response to your initial claim within 45 days of submission, DO NOT RESUBMIT THE CLAIM TO THE CLAIMS ADDRESS. Send a copy of the claim, clearly marked "TRACER" or "SECOND SUBMISSION" to the TRICARE Overseas Correspondence address:
+
+TRICARE Overseas
+P.O.Box 7992
+Madison, WI 53707-7992
+
+I would suggest that you wait at least 90 days especially if you are mailing it from an overseas country.
+
+What I do is have an envelope for each month/year. In this envelop I store my receipts.  When I receive a payment I staple it to the receipt that it pertains to.  Periodically I check the envelope for any unpaid receipts. I then rescan them and send them via the Tricare website with the title of "Tracer" as part of the file name.
+
+On the DD Form 2642 in block 13 it asks if you want payment in local currency. I think that there is a limited countries that Tricare will send the payment in local currency, but I don't know which countries that are on the list, and I have not seen such a list. Just to be on the safe side I just check the NO box and my payments arrive in US Dollars.
 
 **The main requirement to join Tricare For Life is to be registered in
 DEERS and have Medicare Part B.**

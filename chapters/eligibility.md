@@ -57,8 +57,7 @@
         1. Two forms of ID.
 
 
-## When you have Medicare Parts A and B, you're automatically covered by 
-TRICARE For Life.
+## When you have Medicare Parts A and B, you're automatically covered by TRICARE For Life.
 
 1. Available worldwide.
      1. TRICARE pays **after** Medicare in the U.S. and U.S. Territories.
